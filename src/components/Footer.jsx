@@ -49,8 +49,8 @@ const Footer = () => {
                     <h3 className="text-sm font-semibold uppercase tracking-wider text-slate-300">Get in touch</h3>
                     <ul className="mt-4 space-y-2 text-sm text-slate-500">
                         <li>
-                            <a href="mailto:hello@techssar.com" className="transition-colors hover:text-brand-400">
-                                hello@techssar.com
+                            <a href="mailto:info@techssar.com" className="transition-colors hover:text-brand-400">
+                                info@techssar.com
                             </a>
                         </li>
                         <li>

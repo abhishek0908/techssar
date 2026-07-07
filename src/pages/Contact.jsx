@@ -86,8 +86,8 @@ const Contact = () => {
                     <div className="lg:col-span-2">
                         <div className="rounded-xl border border-white/10 bg-white/5 p-6">
                             <h3 className="text-sm font-semibold uppercase tracking-wider text-slate-300">Email</h3>
-                            <a href="mailto:hello@techssar.com" className="mt-2 block text-brand-400 hover:text-brand-300">
-                                hello@techssar.com
+                            <a href="mailto:info@techssar.com" className="mt-2 block text-brand-400 hover:text-brand-300">
+                                info@techssar.com
                             </a>
                             <h3 className="mt-6 text-sm font-semibold uppercase tracking-wider text-slate-300">Careers</h3>
                             <a href="mailto:careers@techssar.com" className="mt-2 block text-brand-400 hover:text-brand-300">
